@@ -1,0 +1,257 @@
+h1 { 
+
+    color:blanchedalmond; 
+
+ text-align: center; 
+
+padding-left: 40px; 
+
+padding-right: 40px; 
+
+border: 10px; 
+
+background-color:rgb(148, 89, 40); 
+
+border-radius: 5px; 
+
+} 
+
+p{ 
+
+    color: black; 
+
+    padding-left: 20px; 
+
+ padding-right: 20px; 
+
+    text-align: center; 
+
+    font-size: large; 
+
+} 
+
+body{ 
+    background-color:rgb(226, 182, 115);
+
+    background-image: -moz-element(شعار); 
+
+    padding-left: 20px; 
+
+    padding-right: 20px; 
+
+} 
+
+.photos { 
+
+     
+
+    text-align: center; 
+
+  
+
+} 
+
+     
+
+ .menu ul {text-align: center; 
+
+    padding-top: 20px; 
+
+    padding-bottom: 20px; 
+
+    text-decoration: black; 
+
+  
+
+} 
+
+  
+
+.menu li { 
+
+    display: inline-block; 
+
+    text-align: center; 
+
+     
+
+} 
+
+  
+
+.menu{ 
+
+    text-align: center; 
+
+    background-color:rgb(148, 89, 40); 
+
+    overflow: auto; 
+
+        padding: 2px; 
+
+} 
+
+  
+
+.menu li a { 
+
+    display: inline-block; 
+
+    height:auto; 
+
+    width: 150px; 
+
+    color: rgb(0, 0, 0); 
+
+    background-color: burlywood; 
+
+    padding: 30px; 
+
+     
+
+    margin: 4px; 
+
+    text-align: center; 
+
+    border-radius: 4px; 
+
+} 
+
+.menu li a:hover{ 
+
+    background-color:rgb(45, 104, 160);
+    
+    padding: 30px;
+} 
+
+  
+
+h3 ul { 
+
+text-align: right; 
+
+padding-top: 20px; 
+
+padding-bottom: 20px; 
+
+text-decoration: none; 
+
+} 
+
+  
+
+h3 li{ 
+
+display: inline-block; 
+
+text-align: right; 
+
+  
+
+} 
+
+  
+
+h3 li a{ 
+
+display: inline-block; 
+
+height: auto; 
+
+width: auto; 
+
+background-color:rgb(148, 89, 40); 
+
+padding: 10px; 
+
+margin: 4px; 
+
+text-align: right; 
+
+font-size:  25px; 
+
+font-weight: bold; 
+
+text-decoration: none; 
+
+border-radius: 4px; 
+
+  
+
+} 
+
+  
+
+h4{  
+
+    text-align: center; 
+
+ 
+ 
+ 
+
+} 
+
+    
+
+  
+
+.photos img{ 
+
+   border-style: solid; 
+
+   border-width: 1px; 
+
+   border-color: antiquewhite; 
+
+   border-radius: 6px; 
+
+  
+
+    margin: 2px; 
+
+    object-fit: cover; 
+
+    object-position: top; 
+
+  
+
+} 
+
+ h3 { 
+text-align: center;
+background-color:rgb(148, 89, 40); 
+
+color: white; 
+
+text-decoration: none; 
+
+border-radius: 2px; 
+
+  padding: 10px;
+
+ } 
+
+  
+
+ h5{ 
+
+text-align:center; 
+
+background-color: darkgrey; 
+padding: 15px;
+ }
+
+ h4 { 
+    text-align: center;
+    background-color:rgb(216, 169, 98); 
+    
+    color: black; 
+    
+    text-decoration: none; 
+    
+    border-radius: 2px; 
+    
+    padding: 15px;
+    
+     }
